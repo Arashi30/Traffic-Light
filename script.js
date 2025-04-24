@@ -48,7 +48,7 @@ document.getElementById("yellowButton").addEventListener("click", function (e){
         "songs/sino.mp3",
         "songs/kodaline.mp3",
         "songs/lany.mp3",
-        "songs/bbdb.mp3"
+        "songs/needyou.mp3"
     ];
 
     function playRandomSong(){
@@ -86,7 +86,7 @@ document.getElementById("greenButton").addEventListener("click", function (e){
     e.preventDefault();
     
     const songs = [
-        "songs/needyou.mp3",
+        "songs/bbdb.mp3",
         "songs/paraluman.mp3",
         "songs/123.mp3",
         "songs/blue.mp3",
